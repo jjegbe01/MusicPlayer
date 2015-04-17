@@ -2,7 +2,7 @@ body {
 	font-family: Helvetica, Arial, Sans-Serif;
 	text-align: center;
 	background-image: url("http://i.imgur.com/OgQBXAN.gif");
-    background-repeat: repeat-y, repeat-x;
+    background-repeat: repeat;
 }
 
 #wrapper {
