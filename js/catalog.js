@@ -10,7 +10,7 @@ var CATALOG = (function () {
 			},
 			{
 				'id' : 2,
-				'title' : 'LL1',
+				'title' : 'Song Of Storms',
 				'basePath' : './music/Song_Of_Storms', 
 				'formats' : [ 'ogg' ]
 			},
