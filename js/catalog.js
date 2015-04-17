@@ -8,6 +8,12 @@ var CATALOG = (function () {
 				'basePath' : './music/song1', 
 				'formats' : [ 'ogg' ]
 			},
+			{
+				'id' : 2,
+				'title' : 'LL1',
+				'basePath' : './music/Song_Of_Storms', 
+				'formats' : [ 'ogg' ]
+			},
 			
 		]
 	};
